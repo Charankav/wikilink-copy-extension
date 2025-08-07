@@ -1,7 +1,5 @@
 # wikilink-copy-extension
 Chrome extension to convert Wikipedia hyperlinks into MediaWiki-style wikilinks with a right-click.
-# wikilink-copy-extension
-Chrome extension to convert Wikipedia hyperlinks into MediaWiki-style wikilinks with a right-click.
 ## ✨ Features
 
 - Right-click any link on Wikipedia and copy it as a wikilink.
